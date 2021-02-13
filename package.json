@@ -1,7 +1,7 @@
 {
   "name": "mp3-metadata-changer",
   "version": "1.0.0",
-  "description": "Simple script that changes mp3 files' metadata based on a file name",
+  "description": "Simple script that changes mp3 files' metadata (artist, song) based on a file name",
   "main": "index.js",
   "scripts": {
     "r": "node index.js",
